@@ -1,0 +1,11 @@
+label{
+    margin-top:50;
+    margin-bottom: 50;
+    margin-left: 25;
+    margin-right: 25;
+    color: blanchedalmond;
+}
+div{
+    padding: 20px;
+    border: double 5px solid black;
+}
